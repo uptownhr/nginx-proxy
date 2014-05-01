@@ -1,0 +1,16 @@
+upstream secure.processing.com {
+	 server 172.17.0.4;
+}
+
+server {
+       #ssl_certificate /etc/nginx/certs/demo.pem;
+       #ssl_certificate_key /etc/nginx/certs/demo.key;
+       gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript;
+
+       server_name secure.processing.com;
+
+       location / {
+       		proxy_pass http://secure.processing.com;
+		include /etc/nginx/proxy_params;
+	}
+}

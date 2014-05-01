@@ -1,0 +1,280 @@
+2014/05/01 16:52:57 [emerg] 19#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:52:58 [emerg] 26#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:52:59 [emerg] 28#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:00 [emerg] 30#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:02 [emerg] 32#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:05 [emerg] 18#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:06 [emerg] 25#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:07 [emerg] 27#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:08 [emerg] 29#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:10 [emerg] 31#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:11 [emerg] 33#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:12 [emerg] 35#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:13 [emerg] 37#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:14 [emerg] 39#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:53:15 [emerg] 41#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:03 [emerg] 19#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:04 [emerg] 26#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:05 [emerg] 28#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:06 [emerg] 30#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:07 [emerg] 32#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:08 [emerg] 34#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:10 [emerg] 36#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:11 [emerg] 38#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:12 [emerg] 40#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:13 [emerg] 42#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:14 [emerg] 44#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:15 [emerg] 46#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:16 [emerg] 48#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:17 [emerg] 50#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:19 [emerg] 52#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:20 [emerg] 54#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:21 [emerg] 56#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:22 [emerg] 58#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:23 [emerg] 60#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:24 [emerg] 62#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:25 [emerg] 64#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:26 [emerg] 66#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:28 [emerg] 68#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:29 [emerg] 70#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:30 [emerg] 72#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:31 [emerg] 74#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:32 [emerg] 76#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:33 [emerg] 78#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:34 [emerg] 80#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:36 [emerg] 82#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:37 [emerg] 84#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:38 [emerg] 86#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:39 [emerg] 88#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:40 [emerg] 90#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:41 [emerg] 92#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:42 [emerg] 94#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:43 [emerg] 96#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:45 [emerg] 98#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:46 [emerg] 100#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:47 [emerg] 102#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:48 [emerg] 104#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:49 [emerg] 106#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:50 [emerg] 108#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:51 [emerg] 110#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:52 [emerg] 112#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:54 [emerg] 114#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:55 [emerg] 116#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:56 [emerg] 118#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:57 [emerg] 120#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:58 [emerg] 122#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:54:59 [emerg] 124#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:00 [emerg] 126#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:02 [emerg] 128#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:03 [emerg] 130#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:04 [emerg] 132#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:05 [emerg] 134#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:06 [emerg] 136#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:07 [emerg] 138#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:08 [emerg] 140#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:09 [emerg] 142#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:11 [emerg] 144#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:12 [emerg] 146#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:13 [emerg] 148#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:14 [emerg] 150#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:15 [emerg] 152#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:16 [emerg] 154#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:17 [emerg] 156#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:18 [emerg] 158#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:20 [emerg] 160#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:21 [emerg] 162#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:22 [emerg] 164#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:23 [emerg] 166#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:24 [emerg] 168#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:25 [emerg] 170#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:26 [emerg] 172#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:27 [emerg] 174#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:29 [emerg] 176#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:30 [emerg] 178#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:31 [emerg] 180#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:55:32 [emerg] 182#0: host not found in upstream "demo.localhost" in /etc/nginx/sites-enabled/default:13
+2014/05/01 16:57:01 [emerg] 18#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:02 [emerg] 25#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:03 [emerg] 27#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:04 [emerg] 29#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:05 [emerg] 31#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:06 [emerg] 33#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:07 [emerg] 35#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:08 [emerg] 37#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:09 [emerg] 39#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:10 [emerg] 41#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:11 [emerg] 43#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:12 [emerg] 45#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:13 [emerg] 47#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:14 [emerg] 49#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:15 [emerg] 51#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:16 [emerg] 53#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:17 [emerg] 55#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:18 [emerg] 57#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:19 [emerg] 59#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:20 [emerg] 61#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:21 [emerg] 63#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:22 [emerg] 65#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:23 [emerg] 67#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:24 [emerg] 69#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:25 [emerg] 71#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:26 [emerg] 73#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:27 [emerg] 75#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:28 [emerg] 77#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:29 [emerg] 79#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 16:57:41 [error] 85#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.4:5000/", host: "192.168.56.241"
+2014/05/01 16:57:44 [error] 85#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.3:5000/", host: "192.168.56.241"
+2014/05/01 16:57:45 [error] 85#0: *1 no live upstreams while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://demo1.localhost/favicon.ico", host: "192.168.56.241"
+2014/05/01 16:58:55 [error] 85#0: *5 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.3:5000/", host: "192.168.56.241"
+2014/05/01 16:58:58 [error] 85#0: *5 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.4:5000/", host: "192.168.56.241"
+2014/05/01 16:58:59 [error] 85#0: *5 no live upstreams while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://demo1.localhost/favicon.ico", host: "192.168.56.241"
+2014/05/01 16:59:23 [error] 85#0: *5 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.3:5000/", host: "192.168.56.241"
+2014/05/01 16:59:26 [error] 85#0: *5 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.4:5000/", host: "192.168.56.241"
+2014/05/01 16:59:27 [error] 85#0: *5 no live upstreams while connecting to upstream, client: 192.168.56.1, server: demo1.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://demo1.localhost/favicon.ico", host: "192.168.56.241"
+2014/05/01 18:52:09 [emerg] 20#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:11 [emerg] 27#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:12 [emerg] 29#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:13 [emerg] 31#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:14 [emerg] 33#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:15 [emerg] 35#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:16 [emerg] 37#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:17 [emerg] 39#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:18 [emerg] 41#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:19 [emerg] 43#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:20 [emerg] 45#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:21 [emerg] 47#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:22 [emerg] 49#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:23 [emerg] 51#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:24 [emerg] 53#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:25 [emerg] 55#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:26 [emerg] 57#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:27 [emerg] 59#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:28 [emerg] 61#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:29 [emerg] 63#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:30 [emerg] 65#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:31 [emerg] 67#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:32 [emerg] 69#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:33 [emerg] 71#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:34 [emerg] 73#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:35 [emerg] 75#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:36 [emerg] 77#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:37 [emerg] 79#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:38 [emerg] 81#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:39 [emerg] 83#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:40 [emerg] 85#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:41 [emerg] 87#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:42 [emerg] 89#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:43 [emerg] 91#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:44 [emerg] 93#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:45 [emerg] 95#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:46 [emerg] 97#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:47 [emerg] 99#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:48 [emerg] 101#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:49 [emerg] 103#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:50 [emerg] 105#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:51 [emerg] 107#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:52 [emerg] 109#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:53 [emerg] 111#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:54 [emerg] 113#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:55 [emerg] 115#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:56 [emerg] 117#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:57 [emerg] 119#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:58 [emerg] 121#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:52:59 [emerg] 123#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:00 [emerg] 125#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:01 [emerg] 127#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:02 [emerg] 129#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:03 [emerg] 131#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:04 [emerg] 133#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:06 [emerg] 135#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:07 [emerg] 137#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:08 [emerg] 139#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:09 [emerg] 141#0: duplicate upstream "demo1.localhost" in /etc/nginx/sites-enabled/default~:1
+2014/05/01 18:53:10 [emerg] 143#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:11 [emerg] 145#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:12 [emerg] 147#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:13 [emerg] 149#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:14 [emerg] 151#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:15 [emerg] 153#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:16 [emerg] 155#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:17 [emerg] 157#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:18 [emerg] 159#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:19 [emerg] 161#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:20 [emerg] 163#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:21 [emerg] 165#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:22 [emerg] 167#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:23 [emerg] 169#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:24 [emerg] 171#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:25 [emerg] 173#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:26 [emerg] 175#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:27 [emerg] 177#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:28 [emerg] 179#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:29 [emerg] 181#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:30 [emerg] 183#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:31 [emerg] 185#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:32 [emerg] 187#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:33 [emerg] 189#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:34 [emerg] 191#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:35 [emerg] 193#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:36 [emerg] 195#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:37 [emerg] 197#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:38 [emerg] 199#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:39 [emerg] 201#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:40 [emerg] 203#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:41 [emerg] 205#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:42 [emerg] 207#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:43 [emerg] 209#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:44 [emerg] 211#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:45 [emerg] 213#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:46 [emerg] 215#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:47 [emerg] 217#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:48 [emerg] 219#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:49 [emerg] 221#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:50 [emerg] 223#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:51 [emerg] 225#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:52 [emerg] 227#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:53 [emerg] 229#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:54 [emerg] 231#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:55 [emerg] 233#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:56 [emerg] 235#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:57 [emerg] 237#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:58 [emerg] 239#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:53:59 [emerg] 241#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:54:00 [emerg] 243#0: unexpected "}" in /etc/nginx/sites-enabled/secure:3
+2014/05/01 18:54:01 [emerg] 245#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:02 [emerg] 247#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:03 [emerg] 249#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:04 [emerg] 251#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:06 [emerg] 253#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:07 [emerg] 255#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:08 [emerg] 257#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:09 [emerg] 259#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:10 [emerg] 261#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:11 [emerg] 263#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:12 [emerg] 265#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:13 [emerg] 267#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:14 [emerg] 269#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:15 [emerg] 271#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:16 [emerg] 273#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:17 [emerg] 275#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:18 [emerg] 277#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:19 [emerg] 279#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:20 [emerg] 281#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:21 [emerg] 283#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 18:54:22 [emerg] 285#0: directive "server_name" is not terminated by ";" in /etc/nginx/sites-enabled/secure:12
+2014/05/01 19:02:28 [emerg] 17#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:29 [emerg] 24#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:30 [emerg] 26#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:31 [emerg] 28#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:32 [emerg] 30#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:33 [emerg] 32#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:34 [emerg] 34#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:35 [emerg] 36#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:36 [emerg] 38#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:37 [emerg] 40#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:38 [emerg] 42#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:02:39 [emerg] 44#0: unknown directive "/xvzxcv/zxcv/" in /etc/nginx/sites-enabled/secure:9
+2014/05/01 19:21:12 [error] 50#0: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.42.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.3:241/", host: "172.17.0.3"
+2014/05/01 19:28:01 [error] 50#0: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.42.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.3:241/", host: "172.17.0.3"
+2014/05/01 19:28:18 [error] 50#0: *25 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.42.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.3:241/", host: "172.17.0.3"
+2014/05/01 19:28:29 [error] 50#0: *58 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.42.1, server: demo1.localhost, request: "GET / HTTP/1.1", upstream: "http://172.17.0.3:241/", host: "172.17.0.3"
